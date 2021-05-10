@@ -1,0 +1,9 @@
+scripts/
+outputs/
+examples/
+.vscode/
+.DS_Store
+nbody-examples/random1000000.npy
+nbody-examples/random100000.npy
+nbody-examples/random1000-expected.npy
+nbody-examples/random10000-expected.npy
